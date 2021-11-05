@@ -1,0 +1,59 @@
+#tt-contact{
+    font-size: 30px;
+    text-align: center;
+    color: #1d3557;
+    font-weight: bold;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.max-width-contact{
+
+    max-width: 35vw;
+    background-color: #ffe5d9;;
+}
+
+.article-nav-contact{
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form-box button:hover{
+    background-color: #fca311;
+}
+
+.contact-form{
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+    height: auto;
+    flex-direction: column;
+}
+
+.form-box{
+    margin: 7px;
+}
+
+.form-box input{
+    width: 300px;
+    height: 35px;
+    padding-left: 15px;
+    border-radius: 10px;
+    font-size: 18px;
+    border-style: solid;
+    font-family: 'Baloo Bhaina 2', cursive;
+    
+}
+
+textarea{
+    width: 300px;
+    height: 250px;
+    padding-left: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: grey;
+    font-size: 18px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+

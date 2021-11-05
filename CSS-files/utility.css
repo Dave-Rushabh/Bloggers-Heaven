@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=Roboto+Condensed:ital,wght@1,300&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&family=Roboto+Condensed:ital,wght@1,300&family=Shrikhand&display=swap');
+
+:root {
+    --main-bg-color : brown;
+    --font-1 : font-family: 'Roboto Condensed', sans-serif;
+    --font-2 : font-family: 'Baloo Bhaina 2', cursive;
+    
+}
+
+.max-width-1{
+
+    max-width: 80vw;
+}
+
+.max-width-2{
+
+    max-width: 60vw;
+}
+
+.mauto{
+    margin: auto;
+}
+
+.btn{
+
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: white;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 20px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #023047;
+    transition: all 0.2s ease-in-out;
+
+}
+
+.form-input{
+
+    padding: 5px 10px;
+    font-size: 16px;
+    margin: 0 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #023047;
+
+}
+
+.nav-right input {
+    font-family: 'Roboto Condensed', sans-serif;   
+    font-size: 16px;
+}
